@@ -19,7 +19,7 @@
 		커밋 후 처리방법
 		<ul>
 			<li>1. 브렌치 초기화 : 특정 위치로 되돌림(Hard-폐기, mixed-언스테이징, soft-스테이징)</li>
-			<li>2. REVERSE commit</li>
+			<li>2. REVERSE commit : 되돌아간 지점을 새로 커밋 하는 개념 </li>
 			<li></li>
 			<li></li>
 		</ul>
