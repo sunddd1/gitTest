@@ -12,7 +12,7 @@
 	</head>
 	<body>
 		배가 고프다
-				1
+		<p>점심은 짜장면</p>
 		
 	</body>
 	<script>
